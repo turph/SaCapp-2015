@@ -1,0 +1,59 @@
+
+@font-face{
+		font-family: Atrament;
+		src: url('../fonts/Atrament_Regular.otf');
+		}
+
+
+@font-face{
+		font-family: ArialNarrow;
+		src: url('../fonts/Arial_narrow.ttf');
+		}
+
+
+body, head, html {
+	position: relative;
+	width: 100%;
+	font-family: 'Arial Narrow';
+	background-color: #fff;
+	margin:0;
+}
+
+h1 {
+	font-family: 'Atrament';
+	font-size: 72px;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: 'Atrament';
+	font-size: 48px;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+	margin-top: 5px;
+}
+
+h3 {
+	font-family: 'Atrament';
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: 'ArialNarrow';
+	font-size: 16px;
+}
+
+.sub-text {
+	font-family: 'Atrament';
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
